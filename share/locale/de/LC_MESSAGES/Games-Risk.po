@@ -167,7 +167,7 @@ msgstr "~Neue Partie"
 
 #: lib/Games/Risk/Tk/Main.pm:1331
 msgid "~Close game"
-msgstr "Spiel ~abbrechen"
+msgstr "Spiel ~schließen"
 
 #: lib/Games/Risk/Tk/Main.pm:1333
 msgid "~Quit"
@@ -246,7 +246,7 @@ msgstr "Neue Partie"
 
 #: lib/Games/Risk/Tk/Main.pm:1498
 msgid "Close game"
-msgstr "Spiel abbrechen"
+msgstr "Spiel schließen"
 
 #: lib/Games/Risk/Tk/Main.pm:1499
 #: lib/Games/Risk/GUI/Startup.pm:348
@@ -441,7 +441,7 @@ msgstr "Ostafrika"
 
 #: lib/Games/Risk/Map/Risk.pm:63
 msgid "South Africa"
-msgstr "Süfafrika"
+msgstr "Südafrika"
 
 #: lib/Games/Risk/Map/Risk.pm:64
 msgid "Madagascar"
